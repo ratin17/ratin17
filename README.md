@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehrab Rabbi Ratin</h1>
-<h3 align="center">A Competitive Programmer and Full-Stack Development Learner</h3>
+<h3 align="center">A Competitive Programmer Trainee and Full-Stack Development Learner</h3>
 
 - 🌱 I’m currently learning **Dynamic Programming,Graph Algorithms,React,Django**
 
